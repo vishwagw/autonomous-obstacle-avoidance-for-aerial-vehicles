@@ -1,0 +1,5 @@
+# cmnd linse:
+
+python test_detector.py in1.mp4
+
+python test_detector2.py in1.mp4
