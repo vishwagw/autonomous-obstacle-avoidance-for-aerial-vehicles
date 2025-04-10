@@ -1,0 +1,4 @@
+# following requirements are needed:
+
+python 3x
+pip install cv2, numpy
